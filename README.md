@@ -4,7 +4,7 @@
 
 ![rdevnoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdevnoah&show_icons=true&theme=radical&include_all_commits=true&count_private=true&description_lines_count=true&hide_rank=true&hide=prs,issues,contribs&show=prs_merged_percentage)
 
-## 🔨 Once I've used 🔨
+### Once I've used
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
